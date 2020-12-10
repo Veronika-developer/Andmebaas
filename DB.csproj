@@ -119,6 +119,7 @@
       <DependentUpon>Tooded.mdf</DependentUpon>
     </Content>
     <Content Include="images\Allalaaditudfail.jpg" />
+    <Content Include="images\vorst.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
